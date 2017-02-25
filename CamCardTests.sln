@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamCardTests", "CamCardTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamCardRestAPI", "CamCardRestAPI\CamCardRestAPI.csproj", "{D763D9CF-0395-457B-B9B7-EA96448BEF66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamCardMock", "CamCardMock\CamCardMock.csproj", "{43B291FB-ACA6-4466-944B-790CE3264C25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D763D9CF-0395-457B-B9B7-EA96448BEF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D763D9CF-0395-457B-B9B7-EA96448BEF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D763D9CF-0395-457B-B9B7-EA96448BEF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B291FB-ACA6-4466-944B-790CE3264C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B291FB-ACA6-4466-944B-790CE3264C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B291FB-ACA6-4466-944B-790CE3264C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B291FB-ACA6-4466-944B-790CE3264C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
